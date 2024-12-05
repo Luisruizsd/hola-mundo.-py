@@ -1,0 +1,1 @@
+print ("Hola mundo,venimos del sandaniel colegio concertado somos juanlu y luis")
